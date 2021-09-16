@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/DİSCORD ID NIZ)](https://discord.com/users/852706210732834836)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852706210732834836)](https://discord.com/users/852706210732834836)
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsza&layout=compact&theme=dark)
 
