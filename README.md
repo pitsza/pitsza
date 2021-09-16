@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852706210732834836)](https://discord.com/users/852706210732834836)]
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852706210732834836)](https://discord.com/users/852706210732834836)
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsza&layout=compact&theme=dark)
 
